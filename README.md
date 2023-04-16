@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Java Web Developer
 -----------------------------
 
-I've been learning Java and its stack environment for almost one year. I started with Portugol, Java + Git/ GitHub and then JSP + JDBC, JSF + Hibernate for finally learn about the most widely used Java framework, Spring and its ecossystem. I also know JavaScript, TypeScript and Angular as my main mastered skills. I've been searching for a career that I can learn and grow into, I set high goals and I get exicited with Java being my major... one of my goals is to improve and become an Java especialist highly valuable, a person who can do anything from scratch to a world widely scalable application. Perhaps some new famous app like Uber, AirBnb and so forth. My motto is to attempt what I want in my life until I achieve or to die attemping, there is no B plan.
+I've been learning Java and its stack environment for almost one year. I started with Portugol, Java + Git/GitHub, and then JSP + JDBC, JSF + Hibernate, before finally learning about the most widely used Java framework, Spring, and its ecosystem. I also know JavaScript, TypeScript, and Angular as my main skills. I've been searching for a career that I can learn and grow into. I set high goals, and I am delighted about Java being my major. One of my goals is to improve and become a highly valuable Java specialist, a person who can do anything from scratch to a world-wide, widely scalable application. Perhaps some new famous app like Uber, AirBnb, and so forth. My motto is to attempt what I want in my life until I achieve it or die trying; there is no B plan.
 
 * 🌍  I'm based in Contagem / MG
 * ✉️  You can contact me at [fabricio001400@gmail.com](mailto:fabricio001400@gmail.com)
 * 🧠  I'm learning Angular, React & Spring
 * 🚀  I'm currently working on an Angular application which are possible users to store and share theirs game highlighted clips with theirs friends. I also working in a
 JavaScript application + React which is a face recognition app consuming a machine learning API
-* 🤝  I'm open to collaborating on any kind of projects and I am also interested on freelancer jobs, prefencially working remotely
+* 🤝  I'm open to collaborating on any kind of projects and I am also interested in freelancer jobs. Prefencially working remotely
 * ⚡  I am a book lover and there are tons of books to read yet
 
 ### Skills

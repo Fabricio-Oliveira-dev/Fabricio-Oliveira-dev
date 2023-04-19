@@ -7,6 +7,7 @@ Full Stack Java Web Developer
 I've been learning Java and its stack environment for almost one year. I started with Portugol, Java + Git/GitHub, and then JSP + JDBC, JSF + Hibernate, before finally learning about the most widely used Java framework, Spring, and its ecosystem. I also know JavaScript, TypeScript, and Angular as my main skills. I've been searching for a career that I can learn and grow into. I set high goals, and I am delighted about Java being my major. One of my goals is to improve and become a highly valuable Java specialist, a person who can do anything from scratch to a world-wide, widely scalable application. Perhaps some new famous app like Uber, AirBnb, and so forth. My motto is to attempt what I want in my life until I achieve it or die trying; there is no B plan.
 
 * 🌍  I'm based in Contagem / MG
+* 🖥️  See my portfolio at [devfabricio.netlify.app](http://devfabricio.netlify.app)
 * ✉️  You can contact me at [fabricio001400@gmail.com](mailto:fabricio001400@gmail.com)
 * 🧠  I'm learning Angular, React & Spring
 * 🚀  I'm currently working on an Angular application which are possible users to store and share theirs game highlighted clips with theirs friends. I also working in a

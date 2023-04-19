@@ -1,19 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabrício
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Fabrício
 ================================================================================================================================
 
-Full Stack Java Web Developer
+Desenvolvedor Java Web Full-Stack
 -----------------------------
 
-I've been learning Java and its stack environment for almost one year. I started with Portugol, Java + Git/GitHub, and then JSP + JDBC, JSF + Hibernate, before finally learning about the most widely used Java framework, Spring, and its ecosystem. I also know JavaScript, TypeScript, and Angular as my main skills. I've been searching for a career that I can learn and grow into. I set high goals, and I am delighted about Java being my major. One of my goals is to improve and become a highly valuable Java specialist, a person who can do anything from scratch to a world-wide, widely scalable application. Perhaps some new famous app like Uber, AirBnb, and so forth. My motto is to attempt what I want in my life until I achieve it or die trying; there is no B plan.
+Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu começei com Portugol, Java + Git/GitHub, JSP + JDBC, JSF + Hibernate, antes de finalmente aprender sobre o framework Java mais amplamente utilizado e moderno, Spring e seu ecossistema. Eu também sei JavaScript, TypeScript, e Angular como minhas principais habilidades. Eu tenho procurado por uma carreira em que eu possa aprender e crescer, coloco metas altas e eu estou satisfeito com Java sendo minha especialização. Uma das minhas metas é melhorar e me tornar um especialista em Java altamente valioso, uma pessoa que possa desenvolver qualquer sistema do zero para uma aplicação mundialmente escalável. Talvez algum novo aplicativo famoso como Uber, AirBnb, e assim por diante. Meu lema é tentar o que quero na minha vida até que eu alcance isso or morrer tentando; não há plano B.
 
-* 🌍  I'm based in Contagem / MG
-* 🖥️  See my portfolio at [devfabricio.netlify.app](http://devfabricio.netlify.app)
-* ✉️  You can contact me at [fabricio001400@gmail.com](mailto:fabricio001400@gmail.com)
-* 🧠  I'm learning Angular, React & Spring
-* 🚀  I'm currently working on an Angular application which are possible users to store and share theirs game highlighted clips with theirs friends. I also working in a
-JavaScript application + React which is a face recognition app consuming a machine learning API
-* 🤝  I'm open to collaborating on any kind of projects and I am also interested in freelancer jobs. Prefencially working remotely
-* ⚡  I am a book lover and there are tons of books to read yet
+* 🌍  Eu resido em Contagem / MG
+* 🖥️  Veja meu portfólio em [devfabricio.netlify.app](http://devfabricio.netlify.app)
+* ✉️  Você pode me contactar em [fabricio001400@gmail.com](mailto:fabricio001400@gmail.com)
+* 🧠  Eu estou aprendendo Angular, React & Spring
+* 🚀  Eu estou atualmente desenvolvendo uma aplicação Angular na qual é possível usuários armazenar e compartilhar seus clips de melhores momentos dos jogos com seus amigos. Também estou trabalhando em uma aplicação JavaScript + React no qual é um sistema de reconhecimento facial consumindo uma API de machine learning
+* 🤝  Eu estou aberto para corroborar em qualquer tipo de projeto e também estou interessado em trabalhos freelancers. Preferencialmente trabalhando remotamente
+* ⚡  Eu sou um amante de livros e tem uma tonelada de livros para ler, animes e series para assistir. rsrs
 
 ### Skills
 

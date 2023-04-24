@@ -8,7 +8,7 @@ Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu come
 
 * 🌍  Eu resido em Contagem / MG
 * 🖥️  Veja meu portfólio em [devfabricio.netlify.app](http://devfabricio.netlify.app)
-* ✉️  Você pode me contactar em [fabricio001400@gmail.com](mailto:fabricio001400@gmail.com)
+* ✉️  Você pode me contactar em [profissionalfabriciooliveira@gmail.com](mailto:profissionalfabriciooliveira@gmail.com)
 * 🧠  Eu estou aprendendo Angular, React & Spring
 * 🚀  Eu estou atualmente desenvolvendo uma aplicação Angular na qual é possível usuários armazenar e compartilhar seus clips de melhores momentos dos jogos com seus amigos. Também estou trabalhando em uma aplicação JavaScript + React no qual é um sistema de reconhecimento facial consumindo uma API de machine learning
 * 🤝  Eu estou aberto para corroborar em qualquer tipo de projeto e também estou interessado em trabalhos freelancers. Preferencialmente trabalhando remotamente

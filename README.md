@@ -19,7 +19,12 @@ Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu come
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376350/spring.svg" width="36" height="36" alt="Spring" /></a>
+<a href="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="36" height="36" alt="Hibernate" /></a>
+<a href="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" width="36" height="36" alt="Thymeleaf" /></a>
+<a href="https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373717/jsp.svg" width="36" height="36" alt="Jsp" /></a>
+<a href="https://cdn-icons-png.flaticon.com/512/9459/9459934.png" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9459/9459934.png" width="36" height="36" alt="Jsf" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -30,6 +35,8 @@ Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu come
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank" rel="noreferrer"><img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="36" height="36" alt="SQLServer" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 

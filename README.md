@@ -4,13 +4,13 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Java Web Full-Stack
 -----------------------------
 
-Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu começei com Portugol, Java + Git/GitHub, JSP + JDBC, JSF + Hibernate, antes de finalmente aprender sobre o framework Java mais amplamente utilizado e moderno, Spring e seu ecossistema. Eu também sei JavaScript, TypeScript, e Angular como minhas principais habilidades. Eu tenho procurado por uma carreira em que eu possa aprender e crescer, coloco metas altas e eu estou satisfeito com Java sendo minha especialização. Uma das minhas metas é melhorar e me tornar um especialista em Java altamente valioso, uma pessoa que possa desenvolver qualquer sistema do zero para uma aplicação mundialmente escalável. Talvez algum novo aplicativo famoso como Uber, AirBnb, e assim por diante. Meu lema é tentar o que quero na minha vida até que eu alcance isso or morrer tentando; não há plano B.
+Venho aprendendo Java e sua stack de desenvolvimento ao longo de mais de um ano de estudos e projetos realizados. Atualmente, o foco da minha especialização é Java com o Ecossistema Spring e padrão REST; apesar de saber trabalhar com JSF, JSP, Thymeleaf, Hibernate e padrão MVC. No Front-End, tenho conhecimentos em JavaScript, TypeScript, e Angular como minhas principais habilidades. Uma das minhas metas é me tornar um desenvolvedor especialista em Back-End com Java altamente valioso e fazer parte de uma aplicação viral como Uber, AirBnb, e assim por diante. Meu lema é tentar o que quero na minha vida até que eu alcance isso or morrer tentando; não há plano B.
 
 * 🌍  Eu resido em Contagem / MG
 * 🖥️  Veja meu portfólio em [devfabricio.netlify.app](http://devfabricio.netlify.app)
 * ✉️  Você pode me contactar em [profissionalfabriciooliveira@gmail.com](mailto:profissionalfabriciooliveira@gmail.com)
 * 🧠  Eu estou aprendendo Angular, React, Spring, Microsserviços & testes unitários
-* 🚀  Eu estou atualmente desenvolvendo uma aplicação Angular na qual é possível usuários armazenar e compartilhar seus clips de melhores momentos dos jogos com seus amigos. Também estou trabalhando em uma aplicação JavaScript + React no qual é um sistema de reconhecimento facial consumindo uma API de machine learning
+* 🚀  Estou trabalhando em uma aplicação JavaScript + React no qual é um sistema de reconhecimento facial consumindo uma API de machine learning
 * 🤝  Eu estou aberto para corroborar em qualquer tipo de projeto e também estou interessado em trabalhos freelancers. Preferencialmente trabalhando remotamente
 * ⚡  Eu sou um amante de livros e tem uma tonelada de livros para ler, animes e series para assistir. rsrs
 
@@ -21,10 +21,10 @@ Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu come
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> 
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376350/spring.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="36" height="36" alt="Hibernate" /></a>
-<a href="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" width="36" height="36" alt="Thymeleaf" /></a>
-<a href="https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373717/jsp.svg" width="36" height="36" alt="Jsp" /></a>
-<a href="https://cdn-icons-png.flaticon.com/512/9459/9459934.png" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9459/9459934.png" width="36" height="36" alt="Jsf" /></a>
+<a href="https://docs.jboss.org/hibernate/orm/6.2/quickstart/html_single/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="36" height="36" alt="Hibernate" /></a>
+<a href="https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" width="36" height="36" alt="Thymeleaf" /></a>
+<a href="https://www.tutorialspoint.com/jsp/index.htm" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373717/jsp.svg" width="36" height="36" alt="Jsp" /></a>
+<a href="https://www.oracle.com/java/technologies/javaserverfaces.html" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9459/9459934.png" width="36" height="36" alt="Jsf" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -35,8 +35,7 @@ Eu venho aprendendo Java e sua stack de desenvolvimento por quase 1 ano. Eu come
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" target="_blank" rel="noreferrer"><img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" width="36" height="36" alt="SQLServer" /></a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 

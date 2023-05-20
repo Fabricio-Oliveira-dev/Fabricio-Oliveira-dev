@@ -4,13 +4,12 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Java Web Full-Stack
 -----------------------------
 
-Venho aprendendo Java e sua stack de desenvolvimento ao longo de mais de um ano de estudos e projetos realizados. Atualmente, o foco da minha especialização é Java com o Ecossistema Spring e padrão REST; apesar de saber trabalhar com JSF, JSP, Thymeleaf, Hibernate e padrão MVC. No Front-End, tenho conhecimentos em JavaScript, TypeScript, e Angular como minhas principais habilidades. Uma das minhas metas é me tornar um desenvolvedor especialista em Back-End com Java altamente valioso e fazer parte de uma aplicação viral como Uber, AirBnb, e assim por diante. Meu lema é tentar o que quero na minha vida até que eu alcance isso or morrer tentando; não há plano B.
+Venho aprendendo Java e sua stack de desenvolvimento ao longo de mais de um ano de estudos e projetos realizados. Atualmente, o foco da minha especialização é Java com o Ecossistema Spring e padrão REST; apesar de saber trabalhar com JSF, JSP, Thymeleaf, Hibernate e padrão MVC. No Front-End, tenho conhecimentos em JavaScript, TypeScript, e Angular como minhas principais habilidades. Uma das minhas metas é me tornar um desenvolvedor especialista em Back-End com Java altamente valioso e fazer parte da criação de uma aplicação viral como Uber e AirBnb.
 
 * 🌍  Eu resido em Contagem / MG
 * 🖥️  Veja meu portfólio em [devfabricio.netlify.app](http://devfabricio.netlify.app)
 * ✉️  Você pode me contactar em [profissionalfabriciooliveira@gmail.com](mailto:profissionalfabriciooliveira@gmail.com)
-* 🧠  Eu estou aprendendo Angular, React, Spring, Microsserviços & testes unitários
-* 🚀  Estou trabalhando em uma aplicação JavaScript + React no qual é um sistema de reconhecimento facial consumindo uma API de machine learning
+* 🧠  Eu estou aprendendo Spring, Microsserviços, testes unitários e Angular
 * 🤝  Eu estou aberto para corroborar em qualquer tipo de projeto e também estou interessado em trabalhos freelancers. Preferencialmente trabalhando remotamente
 * ⚡  Eu sou um amante de livros e tem uma tonelada de livros para ler, animes e series para assistir. rsrs
 
@@ -30,7 +29,6 @@ Venho aprendendo Java e sua stack de desenvolvimento ao longo de mais de um ano 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>

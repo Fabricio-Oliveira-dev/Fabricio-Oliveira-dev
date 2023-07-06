@@ -9,7 +9,7 @@ Venho aprendendo Java e sua stack de desenvolvimento ao longo de mais de um ano 
 * 🌍  Eu resido em Contagem / MG
 * 🖥️  Veja meu portfólio em [devfabricio.netlify.app](http://devfabricio.netlify.app)
 * ✉️  Você pode me contactar em [profissionalfabriciooliveira@gmail.com](mailto:profissionalfabriciooliveira@gmail.com)
-* 🧠  Eu estou aprendendo Spring, Testes de API, Microsserviços e Angular
+* 🧠  Eu estou aprendendo Spring, Microsserviços e Angular
 * 🤝  Eu estou aberto para corroborar em qualquer tipo de projeto e também estou interessado em trabalhos freelancers. Preferencialmente trabalhando remotamente
 * ⚡  Eu sou um amante de livros e tem uma tonelada de livros para ler, animes e series para assistir. rsrs
 
